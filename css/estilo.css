@@ -28,7 +28,6 @@ body {
 .navfoot {
 	text-decoration: none;
 	list-style: none;
-
 }
 .navlink2 {
 	color: black;
@@ -72,7 +71,6 @@ img{
 	display: block;
 	margin: 30px;
 }
-}
 .tituloropa{
 	font-family: 'STIX Two Text', serif;
 	font-size: 25px;
@@ -102,13 +100,13 @@ img{
 	margin-top: 50px;
 	text-align: center;
 }
-}
 /*fin spinner*/
+}
 
-@media screen and (max-width: 767px){
-	.fixed-top{
-		display: block;
-	}
+@media screen and (min-width: 780px) and (max-width 1024){
+.fixed-top{
+	display: block;
+}
 	/*general*/
 body {
 	background-color: peru;
@@ -142,7 +140,6 @@ body {
 .navfoot {
 	text-decoration: none;
 	list-style: none;
-
 }
 .navlink2 {
 	color: black;
@@ -167,7 +164,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	background-color: peru;
-}
 }
 /*fin general*/
 /*servicios*/
@@ -194,7 +190,6 @@ img{
 	flex-direction: row;
 	display: block;
 	margin: 30px;
-}
 }
 .tituloropa{
 	font-family: 'STIX Two Text', serif;
@@ -226,8 +221,8 @@ img{
 	text-align: center;
 }
 }
-@media screen and (min-width: 768px) and (max-width 1023px){
-	.fixed-top{
+@media screen and (min-width 780px){
+.fixed-top{
 	display: none;
 }
 /*general*/
@@ -243,9 +238,12 @@ body {
 	color: white;
 }
 .imglogo {
-	width: auto;
+	width: 30%;
 	background-color: white;
 	text-align: center;
+}
+.logo{
+	width: 30%;
 }
 .texto{
 	font-family: 'STIX Two Text', serif;
@@ -254,12 +252,11 @@ body {
 	margin: 30px 15px 15px 15px;
 }
 .parrafo{
-	font-size: 30 px;
+	font-size: 100px;
 }
 .navfoot {
 	text-decoration: none;
 	list-style: none;
-
 }
 .navlink2 {
 	color: black;
@@ -303,7 +300,6 @@ img{
 	display: block;
 	margin: 30px;
 }
-}
 .tituloropa{
 	font-family: 'STIX Two Text', serif;
 	font-size: 25px;
@@ -336,4 +332,3 @@ img{
 }
 /*fin spinner*/
 
-}
