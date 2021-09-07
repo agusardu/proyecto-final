@@ -221,7 +221,7 @@ img{
 	text-align: center;
 }
 }
-@media screen and (min-width 780px){
+@media screen and (max-width 768px){
 .fixed-top{
 	display: none;
 }
