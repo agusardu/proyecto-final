@@ -16,7 +16,6 @@ body {
 }
 .imglogo {
 	width: auto;
-	background-color: white;
 	text-align: center;
 }
 .texto{
@@ -125,7 +124,6 @@ body {
 }
 .imglogo {
 	width: auto;
-	background-color: white;
 	text-align: center;
 }
 .texto{
@@ -179,7 +177,6 @@ body {
 }
 .logo2{
 	text-align: center;
-	background-color: white;
 	width: 40%;
 }
 /*fin servicios*/
@@ -241,7 +238,6 @@ body {
 }
 .imglogo {
 	width: 30%;
-	background-color: white;
 	text-align: center;
 }
 .logo{
