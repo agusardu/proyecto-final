@@ -17,6 +17,12 @@ body {
 nav{
 	background-color: navajowhite;
 }
+.container{
+	background-color: navajowhite;
+	padding: 0px;
+	margin: 0px;
+	max-width: 1800px;
+}
 .imglogo {
 	width: auto;
 	text-align: center;
@@ -24,7 +30,6 @@ nav{
 .texto{
 	font-family: 'STIX Two Text', serif;
 	font-size: 20px;
-	background-color: peru;
 	margin: 30px 15px 15px 15px;
 }
 .navfoot {
@@ -134,7 +139,6 @@ body {
 .texto{
 	font-family: 'STIX Two Text', serif;
 	font-size: 30px;
-	background-color: peru;
 	margin: 30px 15px 15px 15px;
 }
 .parrafo{
@@ -285,6 +289,7 @@ body {
 .container-fluid{
 	display: flex;
 	flex-direction: column;
+	background-color: antiquewhite;
 }
 /*fin general*/
 /*servicios*/
