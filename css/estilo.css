@@ -54,6 +54,7 @@ nav{
 	text-align: center;
 	font-family: 'STIX Two Text', serif;
 	color: black;
+	padding-top: 40px;
 }
 .container-fluid{
 	display: flex;
@@ -62,6 +63,9 @@ nav{
 }
 /*fin general*/
 /*servicios*/
+.listaservicio{
+	background-color: antiquewhite;
+}
 .lista{
 	font-size: 25px;
 	font-family: 'STIX Two Text', serif;
@@ -90,6 +94,7 @@ img{
 .remera{
 	width: 23%;
 	margin: 150px;
+
 }
 /*fin ropa
 
