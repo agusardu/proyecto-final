@@ -124,6 +124,12 @@ img{
 body {
 	background-color: antiquewhite;
 }
+nav{
+	background-color: navajowhite;
+}
+.div1{
+	background-color: navajowhite;
+}
 .container{
 	background-color: navajowhite;
 	padding: 0px;
@@ -247,6 +253,12 @@ img{
 /*general*/
 body {
 	background-color: antiquewhite;
+}
+nav{
+	background-color: navajowhite;
+}
+.div1{
+	background-color: navajowhite;
 }
 .container{
 	background-color: navajowhite;
