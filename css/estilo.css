@@ -131,6 +131,7 @@ img{
 	/*general*/
 body {
 	background-color: antiquewhite;
+	padding: 0;
 }
 nav{
 	background-color: navajowhite;
@@ -206,6 +207,7 @@ nav{
 	display: flex;
 	flex-direction: column;
 	background-color: antiquewhite;
+	padding: 0;
 }
 /*fin general*/
 /*servicios*/
@@ -269,6 +271,10 @@ img{
 /*general*/
 body {
 	background-color: antiquewhite;
+	padding: 0;
+}
+.container-fluid{
+	padding: 0;
 }
 nav{
 	background-color: navajowhite;
